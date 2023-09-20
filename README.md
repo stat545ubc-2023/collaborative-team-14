@@ -1,4 +1,4 @@
-# Project Title
+# STAT 545A Collaborative Project Milestone 1
 
 ## Description
 
