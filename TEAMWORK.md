@@ -1,17 +1,26 @@
-# TEAMWORK Guidelines
+# TEAMWORK Guidelines 🤘
 
 ## Introduction
 This document outlines how our team will work together to complete the project.
 
 ## Division of Labor
-- Yifan will do ...
-- Wakeel will do ...
-- James will do ...
+
+Team member | Task | Done?
+----------- | ---- | -----
+Yifan | | [  ] 
+Wakeel | | [  ] 
+James | | [  ] 
   
 ## Timing
 - Initial drafts for milestone 1 should be submitted by 2023/09/21 by 5 pm. 
 - Reviews for milestone 1 should be completed by 2023/09/21 by 11 am
 - Initial drafts and reviews for milestone 2 will be updated shortly after submission of milestone 1
+
+## Important rules 
+- **Do not** commit directly to the main branch.
+- Write **clear and descriptive** commit messages to explain the changes you've made
+- **All pull requests** should be reviewed by at least one other team member before being merged
+- **For urgent or emergency changes**, *[name tbd]* has the authority to bypass the usual procedures
 
 ## Communication
 - We will use Slack for instant messaging and GitHub Issues for project-related discussions.
