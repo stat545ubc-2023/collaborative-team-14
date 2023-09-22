@@ -7,9 +7,9 @@ This document outlines how our team will work together to complete the project.
 
 Team member | Task | Done?
 ----------- | ---- | -----
-Yifan | | [  ] 
-Wakeel | | [  ] 
-James | | [  ] 
+Yifan |Troubleshooting document| [ X ] 
+Wakeel | TEAMWORK.md | [ X ] 
+James | README.md| [ X ] 
   
 ## Timing
 - Initial drafts for milestone 1 should be submitted by 2023/09/21 by 5 pm. 
@@ -20,7 +20,7 @@ James | | [  ]
 - **Do not** commit directly to the main branch.
 - Write **clear and descriptive** commit messages to explain the changes you've made
 - **All pull requests** should be reviewed by at least one other team member before being merged
-- **For urgent or emergency changes**, *[name tbd]* has the authority to bypass the usual procedures
+- **For urgent or emergency changes**, *all of us* have the authority to bypass the usual procedures
 
 ## Communication
 - We will use Slack for instant messaging and GitHub Issues for project-related discussions.
