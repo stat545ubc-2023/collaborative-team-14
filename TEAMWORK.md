@@ -13,9 +13,13 @@ James | README.md| [ X ]
 Javier |_____ | ______
   
 ## Timing
+### Milestone 1
 - Initial drafts for milestone 1 should be submitted by 2023/09/21 by 5 pm. 
-- Reviews for milestone 1 should be completed by 2023/09/21 by 11 am
-- Initial drafts and reviews for milestone 2 will be updated shortly after submission of milestone 1
+- Reviews for milestone 1 should be completed by 2023/09/22 by 11 am
+
+### Milestone 2
+- Initial drafts for milestone 1 should be submitted by 2023/09/28 by 9 pm.
+-  Reviews for milestone 1 should be completed by 2023/09/29 by 11 am
 
 ## Important rules 
 - **Do not** commit directly to the main branch.
