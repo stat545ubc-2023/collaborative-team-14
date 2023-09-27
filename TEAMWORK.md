@@ -10,6 +10,7 @@ Team member | Task | Done?
 Yifan |Troubleshooting document| [ X ] 
 Wakeel | TEAMWORK.md | [ X ] 
 James | README.md| [ X ] 
+Javier |_____ | ______
   
 ## Timing
 - Initial drafts for milestone 1 should be submitted by 2023/09/21 by 5 pm. 
