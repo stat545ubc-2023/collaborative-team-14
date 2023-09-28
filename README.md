@@ -15,7 +15,7 @@ This project aims to investigate the git + GitHub workflow and troubleshoot code
 - `README.md`: the introduction document for the project(essentially if you come back after 2 years, read this re-jog your memory)
 - `TEAMWORK.md`: Describes guidelines for team collaboration.
 - `troubleshooting-1.Rmd`: R Markdown document for troubleshooting exercises.
-- - `troubleshooting-2.Rmd`: R Markdown document for highrt level /more difficult troubleshooting exercises.
+- - `troubleshooting-2.Rmd`: R Markdown document for higher level /more difficult troubleshooting exercises.
 - **[Other Files]**: Descriptions...
 
 ## How to Run Code from This Repository
