@@ -7,9 +7,10 @@ This document outlines how our team will work together to complete the project.
 
 Team member | Task | Done?
 ----------- | ---- | -----
-Yifan | | [  ] 
-Wakeel | | [  ] 
-James | | [  ] 
+Yifan | Requested a change to the TEAMWORK doc | [ x ] 
+Wakeel | Requested a change to the README doc | [ x ] 
+James | Completed the second half of the troubleshooting 2 doc | [ x ] 
+Javier | Completed the first half of the troubleshooting 2 doc | [ x ] 
   
 ## Timing
 - Initial drafts for milestone 1 should be submitted by 2023/09/21 by 5 pm. 
