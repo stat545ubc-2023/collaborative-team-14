@@ -3,14 +3,14 @@
 ## Introduction
 This document outlines how our team will work together to complete the project.
 
-## Division of Labor
+## Division of Labor for milestone 2
 
 Team member | Task | Done?
 ----------- | ---- | -----
-Yifan |Troubleshooting document| [ X ] 
-Wakeel | TEAMWORK.md | [ X ] 
-James | README.md| [ X ] 
-Javier |_____ | ______
+Yifan | Requested a change to the TEAMWORK doc | [ x ] 
+Wakeel | Requested a change to the README doc | [ x ] 
+James | Completed the second half of the troubleshooting 2 doc | [ x ] 
+Javier | Completed the first half of the troubleshooting 2 doc | [ x ] 
   
 ## Timing
 ### Milestone 1
