@@ -29,11 +29,9 @@ Let's have a look at the dataset! My goal is to:
 -   Have a quick look at the tibble, using a *dplyr function*.
 
 ```{r}
-movieLens <- dslabs::movielens
+class(dslabs::movielens)
 
-class(movieLens)
-
-movieLens <- as_tibble(movielens)
+movieLens <- as_tibble(dslabs::movielens)
 
 glimpse(movieLens)
 ```
@@ -120,7 +118,6 @@ movieLens %>%
 Using `summarize()`, we can find the minimum and the maximum rating by title, stored under columns named `min_rating`, and `max_rating`, respectively.
 
 ```{r}
-### ERROR HERE ###
 movieLens %>%
   summarize(min_rating = min(rating), 
             max_rating = max(rating),
@@ -145,9 +142,8 @@ starWars %>%
 We can find the minimum height and mass within each species, ignoring the missing values: 
 
 ```{r}
-### ERROR HERE ###
 starWars %>%
-  summarise(across(c("height", "mass"), min, na.rm = T),
+  summarise(across(c("height", "mass"), function(x) min(x, na.rm=TRUE)),
             .by = species)
 ```
 
@@ -162,7 +158,6 @@ Manually create a tibble with 4 columns:
 -   `birth_location` should contain three locations (Liverpool, Seattle, and New York).
 
 ```{r}
-### ERROR HERE ###
 fakeStarWars <- tribble(
   ~name,            ~birth_weight,  ~birth_year, ~birth_location,
   "Luke Skywalker",     1998,  (1998 - 1995) * 0.45   ,  "Liverpool, England",
